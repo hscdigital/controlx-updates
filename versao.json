@@ -1,8 +1,8 @@
 {
-  "versionCode": 11,
-  "versionName": "1.10",
-  "apk": "https://github.com/hscdigital/controlx-updates/releases/download/v1.10/ControlX-1.10.apk",
-  "sha256": "b527eac11be8a569a4365c3be02612a4835af6dd06e66c44331dcfaf6a0ae765",
-  "notes": "Revogação de acesso pelo Gerador.\nChaves por prazo, puxar para atualizar e aviso de atualização corrigido.",
-  "sig": "MEUCIQDCdfOWuPROaBy-GFiLFQ6fk9T4XCA9Nk1FvSBuzBX4fQIgd4NZuqVzysmhm0sU0VTH1Dag0efv-j-mADf-3EP466I"
+  "versionCode": 12,
+  "versionName": "1.11",
+  "apk": "https://github.com/hscdigital/controlx-updates/releases/download/v1.11/ControlX-1.11.apk",
+  "sha256": "2b6d2e57ac66d27a372f4f2173ac589f3c78cc685419d49dfc853773f253bc4a",
+  "notes": "Verificação imediata da lista de acessos ao puxar para atualizar.",
+  "sig": "MEYCIQDPwtLNkJwFSMvsK3VpRiMKgAuOb2_1kzdW1TNLefXI_QIhAJbNnkGwoCEyLje5TScRlZoW6NeGeHJ58_fCMzKfY8zR"
 }
