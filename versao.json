@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
-  "apk": "https://github.com/hscdigital/controlx-updates/releases/download/v1.6/ControlX-1.6.apk",
-  "sha256": "46b3027d36b6d07cec1d28497cbcabfabcd7dfff6eb0815749261f9e12b7458e",
-  "notes": "Atualização do app pela internet.\nBackup e restauração em arquivo.",
-  "sig": "MEQCIDOcrEtaWIHZMKwXZK63tVSw1s8-sTavU0Ziwyfia0poAiBa3G3LTAcyah2nd-vGvGMBzsDMn3NdF-TI97iG6di_Fw"
+  "versionCode": 9,
+  "versionName": "1.8",
+  "apk": "https://github.com/hscdigital/controlx-updates/releases/download/v1.8/ControlX-1.8.apk",
+  "sha256": "bc374d7fe76f50cb737cf873d8b980afa6a6b7d2b14af962c209e426cc999b48",
+  "notes": "Chaves por prazo (teste 7 dias, 30 dias e vitalícia) com contador de dias.\nO aviso de atualização não volta depois de instalar.",
+  "sig": "MEUCIQCuspOHBa_I-TqNemvMhDX4255Jtu_lLvMpoO1T-3IdWgIgAtBYnJkLJgPnm7e5MOBm2SXjJVs9CURbnYGMMtoUyyQ"
 }
