@@ -1,0 +1,8 @@
+{
+  "versionCode": 7,
+  "versionName": "1.6",
+  "apk": "https://github.com/hscdigital/controlx-updates/releases/download/v1.6/ControlX-1.6.apk",
+  "sha256": "46b3027d36b6d07cec1d28497cbcabfabcd7dfff6eb0815749261f9e12b7458e",
+  "notes": "Atualização do app pela internet.\nBackup e restauração em arquivo.",
+  "sig": "MEQCIDOcrEtaWIHZMKwXZK63tVSw1s8-sTavU0Ziwyfia0poAiBa3G3LTAcyah2nd-vGvGMBzsDMn3NdF-TI97iG6di_Fw"
+}
